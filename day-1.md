@@ -4,7 +4,7 @@
 - [ ] P-rank P-2
 - [ ] Finish this tutorial
 ## Review
-` ` `bash
+```bash
 #!/bin/bash
 echo "Welcome to the calculator!"
 
@@ -42,4 +42,4 @@ while true; do
         break
     fi
 done
-` ` `
+```
