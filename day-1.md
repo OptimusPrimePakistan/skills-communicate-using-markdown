@@ -1,9 +1,12 @@
 # Daily Learning
 ## Morning Planning
+<img alt="Vergil is cool" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KIh1LzkxZLUjqucl8DRniIp2CLWM7Z1eMA&s" width="100" align="right">
 - [ ] Finish Learn 2 Cloud
 - [ ] P-rank P-2
 - [ ] Finish this tutorial
+
 ## Review
+
 ```bash
 #!/bin/bash
 echo "Welcome to the calculator!"
